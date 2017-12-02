@@ -1,0 +1,37 @@
+body {
+  padding-top: 70px;
+  background-image: url(https://images.unsplash.com/photo-1493305457700-d3d24daf8c8c?auto=format&fit=crop&w=1534&q=80&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D);
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.jumbotron {
+  color: #2c3e50;
+  background: #ecf0f1;
+
+}
+
+.navbar-inverse {
+  background:#2c3e50;
+}
+
+ .navbar-inverse .navbar-nav>li>a {
+  color: white;
+}
+
+.navbar-inverse .navbar-brand {
+  color: white;
+}
+
+.thumbnail {
+  
+  width : 88%;
+    height: 206px;
+    overflow: auto;
+}
+
+.thumbnail img {
+  max-width: 100%;
+  max-height: 100%;
+}
+
